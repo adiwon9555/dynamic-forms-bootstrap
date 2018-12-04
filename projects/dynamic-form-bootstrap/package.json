@@ -1,0 +1,30 @@
+{
+  "name": "dynamic-form-bootstrap",
+  "version": "0.0.1",
+  "description": "Automate the work of writing multiple lines of code for bootstrap form by simply using a json data to build your desired form",
+  "author": "Aditya Rathi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adiwon9555/dynamic-forms-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adiwon9555/dynamic-forms-bootstrap/issues"
+  },
+  "homepage": "https://github.com/adiwon9555/dynamic-forms-bootstrap",
+  "keywords": [
+    "forms",
+    "dynamic",
+    "bootstrap",
+    "angular",
+    "d-form",
+    "d-form-d",
+    "dynamic-form",
+    "dynamic-forms-bootstrap",
+    "input",
+    "json"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}

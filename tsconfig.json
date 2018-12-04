@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "dynamic-form-bootstrap": [
+        "dist/dynamic-form-bootstrap"
+      ],
+      "dynamic-form-bootstrap/*": [
+        "dist/dynamic-form-bootstrap/*"
+      ]
+    }
   }
 }
