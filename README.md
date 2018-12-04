@@ -21,12 +21,10 @@ To use in your app :-
 
     Add to the imports array:-
     
-        ```
         imports: [
             ...
             DynamicFormBootstrapModule
         ]
-        ```
 
 2.  Create a json data in the component you want to use :-
     Eg:-
